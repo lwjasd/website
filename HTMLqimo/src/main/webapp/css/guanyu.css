@@ -1,0 +1,37 @@
+.guanyu {
+    display: flex;
+    flex-direction: column;
+    height: 70vh;
+
+    background: linear-gradient(to right, purple, deepskyblue, orange);
+}
+
+.guanyu1 {
+    text-align: center;
+    font-family: 华文琥珀;
+    margin-top: 50px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 4px solid pink;
+    width: auto;
+    height: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+tr th {
+    border: 4px solid pink;
+    background-color: beige;
+    color: indianred;
+    font-size: 25px;
+
+}
+
+tr td {
+    border: 4px solid pink;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+}
